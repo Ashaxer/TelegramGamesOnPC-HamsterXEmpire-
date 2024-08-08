@@ -16,3 +16,6 @@ This repo helps you run telegram-webapp based games in PC
 2. Download this file and save it anywhere
 3. Open the extension, click on 'Options' and then 'Load Rules' and then select the downloaded file
 4. Enjoy
+
+
+**If this method failed to load your game, Open an issue and mention the telegram username of the game**
